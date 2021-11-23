@@ -1,4 +1,4 @@
-package day3;
+package Random;
 
 import java.util.HashSet;
 import java.util.Iterator;
